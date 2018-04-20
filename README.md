@@ -12,4 +12,4 @@
  
  // ini merupakan 2 statement, dimana 1 statement adalah assign value total dan yang ke 2 yaitu print total
  ```
- 
+ Source [https://blog.kotlin-academy.com/kotlin-programmer-dictionary-statement-vs-expression-e6743ba1aaa0](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-statement-vs-expression-e6743ba1aaa0)
